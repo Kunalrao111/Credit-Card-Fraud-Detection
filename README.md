@@ -66,3 +66,12 @@ We use **Isolation Forest** as the main model, along with **PCA** for visualizat
    ```bash
    git clone https://github.com/yourusername/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3.Place creditcard.csv in the project folder (download from Kaggle).
+
+4. Run the notebook:
+   ```bash
+   jupyter notebook AnomalyDetection.ipynb
