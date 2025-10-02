@@ -64,7 +64,7 @@ We use **Isolation Forest** as the main model, along with **PCA** for visualizat
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
    cd credit-card-fraud-detection
 2. Install dependencies:
    ```bash
